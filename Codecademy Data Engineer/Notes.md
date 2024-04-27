@@ -1,5 +1,5 @@
 
-Data enineers are effectively librians for data their primary focus is ensuring that data and resources needed are catalogued and accesible.
+Data enineers are effectively librarians for data their primary focus is ensuring that data and resources needed are catalogued and accesible.
 
 This could be organised in a database or a business intelligence tool.
 
