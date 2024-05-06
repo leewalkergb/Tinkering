@@ -46,3 +46,18 @@ if number != 24:
 else:
   print("You guessed correctly") 
 
+#elif statements
+grade = 86
+
+if grade >= 90:
+  print("A")
+elif grade >= 80:
+  print("B")
+elif grade >= 70:
+  print("C")
+elif grade >= 60:
+  print("D")
+else:
+  print("F")
+
+# Control Flow Review
