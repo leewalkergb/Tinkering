@@ -6,8 +6,17 @@ For tinkering will add daily files as required:
 ## File Structure
 
 ```
-└── 📁Experiments
-    └── python_150324.py
-└── README.md
-└── .gitignore
+└── 📁Tinkering
+    └── .gitignore
+    └── 📁Codecademy Data Engineer
+        └── block_letters.py
+        └── control_flow.py
+        └── git-cheat-sheet-education.pdf
+        └── image.png
+        └── lovely_loveseats.py
+        └── Notes.md
+        └── space.py
+    └── 📁Experiments
+        └── python_150324.py
+    └── README.md
 ```
