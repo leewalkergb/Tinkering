@@ -18,7 +18,5 @@ For tinkering will add daily files as required:
             └── control_flow.py
             └── lovely_loveseats.py
             └── space.py
-    └── 📁Experiments
-        └── python_150324.py
     └── README.md
 ```
