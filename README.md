@@ -9,13 +9,15 @@ For tinkering will add daily files as required:
 └── 📁Tinkering
     └── .gitignore
     └── 📁Codecademy Data Engineer
-        └── block_letters.py
-        └── control_flow.py
-        └── git-cheat-sheet-education.pdf
         └── image.png
-        └── lovely_loveseats.py
         └── Notes.md
-        └── space.py
+        └── 📁Other_Resources
+            └── git-cheat-sheet-education.pdf
+        └── 📁Python_Files
+            └── block_letters.py
+            └── control_flow.py
+            └── lovely_loveseats.py
+            └── space.py
     └── 📁Experiments
         └── python_150324.py
     └── README.md
