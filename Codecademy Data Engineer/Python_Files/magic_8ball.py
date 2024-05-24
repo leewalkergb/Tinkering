@@ -24,6 +24,9 @@ question = "Is the earth round?"
 answer = ""
 random_number = random.randint(1,9)
 
+#-----------------------------------------------------------------------
+# Code
+#-----------------------------------------------------------------------
 
 if random_number == 1:
     answer = "Yes - Definitely"
