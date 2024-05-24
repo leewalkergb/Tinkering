@@ -58,3 +58,5 @@ else:
 print("Ground shipping cost $", str('%.2f' % cost_ground)) 
 print("Ground Shipping premium cost $", str('%.2f' % ground_premium))
 print("Drone shipping cost $", str('%.2f' % cost_drone))
+
+#? Lots of way to format within print statements, see here: https://medium.com/analytics-vidhya/4-ways-to-add-variables-or-values-into-python-strings-860082cf8461#:~:text=The%20comma,a%20comma%20as%20shown%20below.&text=This%20does%20not%20give%20a,space%60%20in%20the%20output%20string.
